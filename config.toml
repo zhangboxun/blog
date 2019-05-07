@@ -1,0 +1,4 @@
+baseURL = "https://zhangboxun.github.io/"
+languageCode = "en-us"
+title = "Boxun Zhang"
+theme = "tale"
